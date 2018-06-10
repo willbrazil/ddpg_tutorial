@@ -3,7 +3,7 @@ Implementing Deep Deterministic Policy Gradient (DDPG) and writing tests.
 
 ## Install
 
-```python
+```bash
 virtualenv ~/.env --python=/usr/bin/python2.7
 source ~/.env/bin/activate
 
